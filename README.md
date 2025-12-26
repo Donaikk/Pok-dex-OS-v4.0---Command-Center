@@ -39,5 +39,3 @@ Interface: Layout responsivo otimizado para visualização em ambientes de baixa
 
 Execução do Projeto
 O projeto é distribuído como um sistema independente (standalone). Para execução, basta o carregamento do arquivo fonte em um navegador que suporte o padrão ES6 de JavaScript. Não há dependências de compilação ou pré-processadores.
-
-Deseja que eu elabore também uma lista técnica de endpoints da API que foram utilizados no projeto?
